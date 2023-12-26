@@ -1,5 +1,5 @@
 
-# APPLICATION OF CHURN PREDICTION TO ENHANCE RETENTION OF CUSTOMER IN GROCERY ONLINE SHOPPING
+# APPLICATION OF CHURN PREDICTION TO IMPROVE RETENTION OF CUSTOMER IN GROCERY ONLINE SHOPPING
 
 The evolving nature of e-commerce today has necessitated grocery retailers to keep existing customers even while sourcing for new ones (Patil et al., 2017), and because groceries are so essential to daily living, the grocery industry is expanding significantly. Consumers not just have multiple options of retail outlets or stores, they also have an array of products as options to choose from (Tandon, 2012). This study will explore the various ways in which churn prediction can improve and enhance Customer Retention in grocery e-retailing.  
 
