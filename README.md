@@ -4,7 +4,7 @@
 The evolving nature of e-commerce today has necessitated grocery retailers to keep existing customers even while sourcing for new ones (Patil et al., 2017), and because groceries are so essential to daily living, the grocery industry is expanding significantly. Consumers not just have multiple options of retail outlets or stores, they also have an array of products as options to choose from (Tandon, 2012). This study will explore the various ways in which churn prediction can improve and enhance Customer Retention in grocery e-retailing.  
 
 ## Authors
-- Aaron Joshua Loveday
+- Joshua Loveday Aaron
 - Dr. Thaier Hamid
 - Dr. Celestine Iwendi
 - Ibtisam Mogul
@@ -64,10 +64,3 @@ By offering insightful details on the use of churn prediction to improve custome
 Instead of taking a generic approach to consumer retention, businesses should increase customer retention by implementing sophisticated personalization and customization tactics that are specific to their needs and preferences.
 The study also suggests a methodical framework for grocery retailers looking to improve customer retention and guarantee customers are kept and retained. The framework, which offers a workable solution, relies on data-driven technical insights leading to proactive strategies that would help the corporate growth of the grocery e-retail business.
 
-## Considerations for Future Studies
-
-The following will be taken into account in further efforts and additional research
-- A more accurate dataset from larger businesses affected by consumer attrition
-- Deep Learning and Machine Learning models that are more advanced and contemporary.
-- The inclusion of new features that will improve model training, such as recognising business rivals that clients patronise and periodic components like holidays 
-- The stage 3 of the framework's proposed techniques' applicability and performance
