@@ -1,31 +1,30 @@
 
-# THE USE OF CHURN PREDICTION TO IMPROVE CUSTOMER RETENTION IN GROCERY E-RETAILING
-
-The evolving nature of e-commerce today has necessitated grocery retailers to keep existing customers even while sourcing for new ones (Patil et al., 2017), and because groceries are so essential to daily living, the grocery industry is expanding significantly. Consumers not just have multiple options of retail outlets or stores, they also have an array of products as options to choose from (Tandon, 2012). This study will explore the various ways in which churn prediction can improve and enhance Customer Retention in grocery e-retailing.  
-
-## Authors
-- Joshua Loveday Aaron
-- Dr. Thaier Hamid
-- Dr. Celestine Iwendi
-- Ibtisam Mogul
+# CHURN PREDICTION TO IMPROVE CUSTOMER RETENTION IN GROCERY E-RETAILING
 
 
-## Business Problem
+## Project Overview
 
-Customer Churn is a significant challenge for companies trying to keep a loyal customer base in the highly competitive online grocery retail market. Churn, or the loss of buyers to other businesses, can result in a loss of income and impede corporate expansion. As a result, to reduce churn rates and boost retention of customers in the grocery e-retailing industry, it is necessary to employ focused retention strategies.
-This characterization of the problem emphasises the significance of resolving customer loss in grocery commerce and stresses the requirement for precise churn prediction and successful retention methods. The long-term economic success and sustainability of grocery e-retail enterprises are acknowledged to depend on decreasing churn rates and raising retention of customers. 
+This project aims to provide insight into customer churn challenges of an e-retailer by examining the various customer experiences and behaviour, seeking to identify trends, make data driven recommendations and gain meaningful insight into the grocery e-retail customer data.
  
 ## Data
-The E-commerce Customer Churn Analysis and Prediction dataset was obtained online from Ankit Verma (2021), Product at Ufaber Edutech Pvt Ltd with the permission of Kaggle. 
+The E-commerce Customer Churn Analysis and Prediction dataset was obtained online from Ankit Verma (2021), Product at Ufaber Edutech Pvt Ltd with the permission of Kaggle. https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction 
 
+## Findings
+The following findings were obtained from the dataset
+1. 30% of consumers who shop at the store rated their satisfaction a score of 3, indicating that they are either not very happy or just moderately satisfied with the services they receive from the business.
+2. 2314 signifying 41% of the customer base prefers to make payment with their debit cards.
+3. Longer-staying customers do not constitute the larger proportion of churners but the new ones meaning the higher the tenure the less likely it is to churn. This also can be interpreted as the longer the customer stays, the less likely the churn tendency.
+4. A greater proportion of customers who filed complaints eventually churned.
+
+One of the interesting findings is that e-retailers may identify customers who are about to leave or have already decided to go by looking at certain customer behaviour. 
 
 ## Methods
+Python programming was used to investigate this dataset
 
-Python programming was used to investigate this dataset, and Power BI was utilised to explore relationships between variables through visualisations.
-Python is a great option for managing big amounts of data, according to Wu et al., (2017), because of its scalability, aptitude for distributed computing, and support for simultaneous processing. As Brownlee underlines, Python is frequently used for Machine Learning tasks due to its simplicity, readability, and strong development community. 
+SQL was used to query data and analyse
 
-It offers an extensive collection of machine learning libraries and tools, such TensorFlow and PyTorch, that make it easier to apply complicated algorithms effectively. Hence, Python is the best option for handling the big datasets that are frequently used in Machine Learning (ML) applications. 
-The Figure below illustrates the various EDA Procedures, Data pre-processing and Machine Learning MModels used in the study.
+Power BI was utilised to explore relationships between variables through visualisations.
+
 
 
 <img width="468" alt="image" src="https://github.com/Abimbojolo/Retail_Churn_Prediction/assets/131364220/abccdcc3-5a46-4107-92e2-92f61afb8e37">
